@@ -101,7 +101,7 @@ If you find this model useful, please cite our paper:
 ```
 
 ## 📄 License
-Our model and code are licensed under [Apache 2.0](LICENSE) License.
+Our model and code are licensed under [LICENCE](LICENSE).
 
 
 ## ✉️ Contact
